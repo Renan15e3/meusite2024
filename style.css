@@ -1,4 +1,4 @@
-body { background-color: rgb(0, 255, 68);
+body { background-color: rgb(0, 217, 255);
     color: rgb(15, 15, 14);
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -12,3 +12,18 @@ body { background-color: rgb(0, 255, 68);
   margin:0 16px;
   padding: 100px 0;
   font-size: 40px;}
+
+
+
+
+  .cabecalho {background-color: aqua;
+color: rgb(3, 3, 3);
+display: flex;
+justify-content: space-around; 
+padding: 20px 0;}
+
+.cabecalho-itens
+{display: inline-block;
+margin: 0 16px;
+padding: 24px 0;
+font-size: 24px;}
